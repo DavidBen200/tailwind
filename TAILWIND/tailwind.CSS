@@ -1,0 +1,8 @@
+/* styles.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+* {
+    font-family: 'poppins', sans-serif;
+}
